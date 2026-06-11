@@ -1,0 +1,30 @@
+.item {
+    border: 1px solid red;
+    padding: 10px;
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.images {
+    display: block;
+    width: 100%;
+    height: 450px;
+}
+
+.online {
+    color: green;
+}
+
+
+
+
+.offline {
+    color: red;
+}
+.itemOnline {
+    background-color: rgb(41, 192, 41);
+}
+
+.itemOffline {
+    background-color: rgb(240, 66, 66);
+}
